@@ -1,4 +1,5 @@
 <!-- # Davi Rezende -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gilbertopsantosjr" alt="gilbertopsantosjr" /> </p>
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-davirezende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-resende-7b3ba51a8/)](https://www.linkedin.com/in/davi-resende-7b3ba51a8/)
 
@@ -16,9 +17,9 @@
   </a>
 </p>
 
-I'm a front-end, web and mobile developer 👨‍💻 passionate about learning new things and magnificent layouts
+I have loved programming since I was 12 years old, I have been working as a programmer since I was 16 years old. Focusing on the frontend, I always like to surprise with modern, innovative and accessible layouts. I have experience in both web and mobile programming.
+I finish a task faster than the Millennium Falcon does the Kessel run ("less than twelve parsecs.")
 
-- 🌱 I am currently learning **ReactJS**, **TypeScript**, **NextJS** and **REST API**
-- ⚡ Technologies: JavaScript, TypeScript, ReactJS and NextJS.
+- ⚡ Technologies: JavaScript, TypeScript, ReactJS, NextJS and React Native.
 
-Website -> https://davi-rezende.github.io
+Website -> https://davirezende.vercel.app
