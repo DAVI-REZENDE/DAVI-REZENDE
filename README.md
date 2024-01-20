@@ -1,5 +1,5 @@
 <!-- # Davi Rezende -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gilbertopsantosjr" alt="gilbertopsantosjr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DAVI-REZENDE" alt="DAVI-REZENDE" /> </p>
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-davirezende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-resende-7b3ba51a8/)](https://www.linkedin.com/in/davi-resende-7b3ba51a8/)
 
