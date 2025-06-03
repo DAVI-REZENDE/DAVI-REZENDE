@@ -22,4 +22,4 @@ I finish a task faster than the Millennium Falcon does the Kessel run ("less tha
 
 - ⚡ Technologies: JavaScript, TypeScript, ReactJS, NextJS and React Native.
 
-Website -> https://davirezende.vercel.app
+Website -> https://davirezende.dev
