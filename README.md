@@ -69,4 +69,4 @@ Full Stack Developer com 5 anos de experiência, atualmente na **PitchYes**, sta
 
 ### 🌐 Contato
 
-📧 davirezendeps@gmail.com · 🔗 [davirezende.dev](https://davirezende.dev) · 💼 [linkedin.com/in/davirezendeps](https://linkedin.com/in/davirezendeps)
+📧 davirezendeps@gmail.com · 💼 [linkedin.com/in/davirezendeps](https://linkedin.com/in/davirezendeps)
